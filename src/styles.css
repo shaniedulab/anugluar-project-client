@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+/* body{
+    background-color:#eeeeec;
+} */
+body {
+    background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg');
+    background-size: cover;
+}
